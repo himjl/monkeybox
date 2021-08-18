@@ -2,7 +2,8 @@
 
 - Microcontroller with Bluetooth capabilities: [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995)
 
-    ![adafruit feather m0 bluefruit le](bluetooth_juicer/images_of_bluetooth_juicer_parts/adafruit_feather_m0_bluefruit_le.jpg)
+    <img src="bluetooth_juicer/images_of_bluetooth_juicer_parts/adafruit_feather_m0_bluefruit_le.jpg" width="15%">
+
 - Fluid pump: [TCS Micropumps D250S-L-SV](https://micropumps.co.uk/TCSD200Lrange.htm).
     - Model ID: D250S-L-SV
     - Diaphragm pump (not a peristaltic one, which would be more hygienic / cheaper - but I haven't found a precise enough peristaltic one yet)
@@ -11,9 +12,7 @@
 - In-house PCB design for FeatherB0
     - Ready to order off-the-shelf from [OshPark](https://oshpark.com/shared_projects/wfkguyRQ) @ $15.90 per board
     - The (.brd) file is [here](bluetooth_juicer/bluetooth_juicer_shield_pcb_design.brd)
-    
-        ![pcb top](bluetooth_juicer/images_of_bluetooth_juicer_parts/images_of_pcb/image_pcb_top.png)
-        <img src="bluetooth_juicer/images_of_bluetooth_juicer_parts/images_of_pcb/image_pcb_top.png" width="40%">
+        <img src="bluetooth_juicer/images_of_bluetooth_juicer_parts/images_of_pcb/image_pcb_top.png" width="15%">
     
 - Minor electronics parts
     - [Transistor - NPN, 50V 800mA (BC337)](https://www.sparkfun.com/products/13689)
@@ -33,4 +32,4 @@
 - Food safe silicon tubing which fits the fluid pump
 - One-liter water bottle: [McMaster-Carr Graduated HDPE Plastic Jar 950 ml Capacity (Style B) #41665T26](https://www.mcmaster.com/catalog/127/1875)
 
-    ![water bottle](enclosure/images_of_enclosure_parts/mcmaster_carr_41665t26_waterbottle.png)
+    <img src="enclosure/images_of_enclosure_parts/mcmaster_carr_41665t26_waterbottle.png" width="15%">
