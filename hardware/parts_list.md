@@ -5,7 +5,7 @@
     ![adafruit feather m0 bluefruit le](bluetooth_juicer/images_of_bluetooth_juicer_parts/adafruit_feather_m0_bluefruit_le.jpg)
 - Fluid pump: [TCS Micropumps D250S-L-SV](https://micropumps.co.uk/TCSD200Lrange.htm).
     - Model ID: D250S-L-SV
-    - Diaphragm pump (not peristaltic, which are more hygienic / cheaper - I haven't found a precise enough peristaltic one yet)
+    - Diaphragm pump (not a peristaltic one, which would be more hygienic / cheaper - but I haven't found a precise enough peristaltic one yet)
     - Cost: 89.5 GBP
     
 - In-house PCB design for FeatherB0
@@ -13,6 +13,7 @@
     - The (.brd) file is [here](bluetooth_juicer/bluetooth_juicer_shield_pcb_design.brd)
     
         ![pcb top](bluetooth_juicer/images_of_bluetooth_juicer_parts/images_of_pcb/image_pcb_top.png)
+        <img src="bluetooth_juicer/images_of_bluetooth_juicer_parts/images_of_pcb/image_pcb_top.png" width="40%">
     
 - Minor electronics parts
     - [Transistor - NPN, 50V 800mA (BC337)](https://www.sparkfun.com/products/13689)
@@ -22,10 +23,10 @@
     - [Male pigtail cables](https://www.amazon.com/iMBAPrice-iMBA-CCTV-PGTM-10-Security-Camera-Pigtail/dp/B0054D80LE/)
  
  - Battery with "Always On" design: [Voltaic Systems V50 USB Battery Pack](https://voltaicsystems.com/v50/)
-    - Voltaic Systems makes external battery packs with [what they call "Always On" mode])https://voltaicsystems.com/always-on-batteries/): 
+    - Voltaic Systems makes external battery packs with [what they call "Always On" mode](https://voltaicsystems.com/always-on-batteries/): 
         
         `Always On means that the output of the battery or power bank does not shut off after a set amount of time. There is no low current shutoff. It stays on.`
-    - Our Bluetooth juicer which draws low current sporadically. 
+    - The Bluetooth juicer draws low current sporadically, so this kind of battery is needed. 
     
 ### Box parts 
 
